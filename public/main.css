@@ -1,0 +1,8 @@
+
+.name-details .visible {
+  display: block;
+}
+
+.name-details .hidden {
+  display: none;
+}
