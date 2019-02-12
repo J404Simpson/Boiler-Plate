@@ -2,7 +2,7 @@ import React from 'react'
 import NameInput from './NameInput'
 import ErrorMessage from './ErrorMessage'
 
-import {getNames, addName} from '../api'
+import {getNames} from '../api'
 
 export default class App extends React.Component {
   constructor (props) {
