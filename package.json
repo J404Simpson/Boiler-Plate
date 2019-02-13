@@ -1,8 +1,8 @@
 {
-  "name": "react-to-web-api",
+  "name": "boiler-plate",
   "version": "0.2.1",
-  "description": "A React demo with web APIs",
-  "repository": "https://github.com/dev-academy-challenges/react-to-web-api.git",
+  "description": "A good way to waste time",
+  "repository": "https://github.com/jason-simpson/Boiler-Plate.git",
   "main": "server/index.js",
   "scripts": {
     "dev": "nodemon --watch server & webpack --watch",
